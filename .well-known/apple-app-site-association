@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["99SW8E36CT.com.orion.britios"],
+        "components": [
+          {
+            "/": "/bookings*",
+            "comment": "Matches britorion.com/bookings and any query string, e.g. ?coupon=XYZ"
+          }
+        ]
+      }
+    ]
+  }
+}
